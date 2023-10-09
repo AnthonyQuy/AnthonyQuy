@@ -62,7 +62,7 @@
 </p>
 
 
-<h3 align="left">Framework & Tool</h3>
+<h3 align="left">Frameworks & Tools</h3>
         <a href="https://spring.io/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                         height="40" />
@@ -103,7 +103,7 @@
 
 
 
-<h3 align="left">Database system</h3>
+<h3 align="left">Database systems</h3>
 <p align="left">
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
@@ -170,7 +170,7 @@
                         src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4" alt="ansible"
                         width="40" height="40" /> </a>
 </p>
-<h3 align="left">Report</h3>
+<h3 align="left">Reports</h3>
         <a href="https://reportportal.io/" target="_blank" rel="noreferrer"> <img
                         src="https://avatars.githubusercontent.com/u/17636279?s=48&v=4" alt="reportportal" width="40"
                         height="40" />
@@ -178,7 +178,7 @@
                         src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40"
                         height="40" />
 
-<h3 align="left">Platform</h3>
+<h3 align="left">Platforms</h3>
         <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img
                         src="https://developer.apple.com/licensing-trademarks/images/mac-logo.svg"
                         alt="macos" width="40" height="40" /> </a>
