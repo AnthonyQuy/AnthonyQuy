@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anthony</h1>
 
 
-<pExperienced in creating comprehensive, automated quality software solutions from scratch. Proficient in utilizing continuous integration tools to align with agile delivery practices, enhancing time-to-market efficiency.
+<p> Experienced in creating comprehensive, automated quality software solutions from scratch. Proficient in utilizing continuous integration tools to align with agile delivery practices, enhancing time-to-market efficiency.
 Experienced in working as a full stack developer with expertise in front-end technologies, server-side
 programming as well as infra development.
 </p>
