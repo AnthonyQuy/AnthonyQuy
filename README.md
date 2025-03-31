@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Anthony</h1>
 
 
-<p>I am experienced in creating comprehensive, automated quality solutions from scratch for various testing scenarios
-        (including unit, functional, installation, API, UI, inter-operation, usability, load, stress, and performance
-        tests). I am proficient in utilizing continuous integration tools to align with agile delivery practices,
-        enhancing
-        time-to-market efficiency.
+<pExperienced in creating comprehensive, automated quality software solutions from scratch. Proficient in utilizing continuous integration tools to align with agile delivery practices, enhancing time-to-market efficiency.
+Experienced in working as a full stack developer with expertise in front-end technologies, server-side
+programming as well as infra development.
 </p>
 
 
