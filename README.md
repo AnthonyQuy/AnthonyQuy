@@ -2,10 +2,10 @@
 
 
 <p> 
-        Experienced in creating comprehensive, automated quality software solutions from scratch. Proficient in utilizing continuous integration tools to align with agile delivery practices, enhancing time-to-market efficiency.
+        A highly accomplished and visionary Engineering Leader with extensive experience in architecting, implementing, and leading enterprise-wide quality engineering initiatives. Proven expertise in defining and executing strategic quality roadmaps that integrate seamlessly with agile and DevOps delivery models, driving significant improvements in time-to-market and product excellence. My background spans the full spectrum of quality assurance, from comprehensive test automation (unit, functional, API, UI, inter-operation, performance, load, stress, usability) to fostering a pervasive "quality-first" culture across large, distributed engineering teams.
 </p>
 <p> 
-Experienced in working as a full stack developer with expertise in front-end technologies, server-side programming as well as infra development.
+Beyond my core strength in Quality Engineering, my proficiency as a full-stack developer (encompassing front-end, server-side, and infrastructure development) provides a unique holistic perspective, enabling me to influence technical excellence and consistency across the entire software development lifecycle. I excel at leading large-scale change, building high-performing teams and engaging senior-level stakeholders to align quality strategy with overarching business and technology goals.
 </p>
 
 <p align="left">
